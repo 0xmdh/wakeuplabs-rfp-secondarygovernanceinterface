@@ -1,4 +1,6 @@
-# zkSync Governance UI • WakeUp Labs  
+# zkSync Governance UI • WakeUp Labs
+<https://zkgov.wakeuplabs.io> 
+
 **⚠️ Functional demo — mock data only (no on-chain calls)**  
 Submission asset for the **“Secondary Governance Interface” RFP**  
 <https://forum.zknation.io/t/rfp-secondary-governance-interface/702>
